@@ -286,6 +286,7 @@ export const PRODUCTS: Product[] = [
     isBestSeller: false,
     isNewArrival: true,
     images: [
+      '/images/velvet-bloom-arrival.jpg',
       'https://images.unsplash.com/photo-1583445013765-46c20c4a6772?auto=format&fit=crop&w=1000&q=85',
       'https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=1000&q=85',
       'https://images.unsplash.com/photo-1592945403407-98e30feb999a?auto=format&fit=crop&w=1000&q=85',

@@ -26,7 +26,10 @@ export const HomePage: React.FC = () => {
   const [isSubscribed, setIsSubscribed] = useState(false);
 
   const bestSellers = PRODUCTS.filter(p => p.isBestSeller).slice(0, 4);
-  const newArrivals = PRODUCTS.filter(p => p.isNewArrival).slice(0, 4);
+  const newArrivals = [
+    ...PRODUCTS.filter(p => p.id === 'velvet-bloom'),
+    ...PRODUCTS.filter(p => p.isNewArrival && p.id !== 'velvet-bloom')
+  ].slice(0, 4);
 
   const handleNewsletterSubmit = (e: React.FormEvent) => {
     e.preventDefault();
