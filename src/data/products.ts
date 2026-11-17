@@ -467,8 +467,8 @@ export const PRODUCTS: Product[] = [
     isNewArrival: true,
     images: [
       '/images/related-midnight-rose.jpg',
-      'https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1000&q=85',
-      'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=85',
+      '/images/desert-mist-angle-1.jpg',
+      '/images/desert-mist-angle-2.jpg',
     ],
     description: 'The sensation of walking into a lush Arabian oasis after days under the desert sun. Blood orange, sunlit citrus, and green cardamom meeting crystal musk.',
     fullStory: 'Desert Mist captures the refreshing miraculous duality of the desert: burning golden dunes against cool marble courtyards with crystal fountains.',
