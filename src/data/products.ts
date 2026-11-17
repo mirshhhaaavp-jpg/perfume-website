@@ -153,7 +153,7 @@ export const PRODUCTS: Product[] = [
     isBestSeller: false,
     isNewArrival: true,
     images: [
-      'https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1000&q=85',
+      '/images/related-velvet-musk.jpg',
       'https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=1000&q=85',
       'https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=1000&q=85',
     ],
@@ -422,7 +422,7 @@ export const PRODUCTS: Product[] = [
     isBestSeller: true,
     isNewArrival: false,
     images: [
-      'https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=1000&q=85',
+      '/images/related-oud-noir.jpg',
       'https://images.unsplash.com/photo-1616949755610-8c9bbc08f138?auto=format&fit=crop&w=1000&q=85',
       'https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1000&q=85',
     ],
@@ -466,7 +466,7 @@ export const PRODUCTS: Product[] = [
     isBestSeller: false,
     isNewArrival: true,
     images: [
-      'https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=1000&q=85',
+      '/images/related-midnight-rose.jpg',
       'https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1000&q=85',
       'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=85',
     ],
@@ -510,7 +510,7 @@ export const PRODUCTS: Product[] = [
     isBestSeller: true,
     isNewArrival: false,
     images: [
-      'https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1000&q=85',
+      '/images/related-royal-amber.jpg',
       'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=85',
       'https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1000&q=85',
     ],
