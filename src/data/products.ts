@@ -197,7 +197,7 @@ export const PRODUCTS: Product[] = [
     isBestSeller: false,
     isNewArrival: true,
     images: [
-      'https://images.unsplash.com/photo-1508746829417-e6f548d8d6ed?auto=format&fit=crop&w=1000&q=85',
+      '/images/midnight-musk-arrival.jpg',
       'https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=1000&q=85',
       'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=85',
     ],
@@ -376,7 +376,7 @@ export const PRODUCTS: Product[] = [
     isBestSeller: false,
     isNewArrival: true,
     images: [
-      'https://images.unsplash.com/photo-1563178406-4cdc2923acbc?auto=format&fit=crop&w=1000&q=85',
+      '/images/mystic-blossom-arrival.jpg',
       'https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=1000&q=85',
       'https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1000&q=85',
     ],
